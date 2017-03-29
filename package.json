@@ -1,0 +1,20 @@
+{
+  "name": "webpack-sb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "artem-shev",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.0",
+    "webpack": "^2.3.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
