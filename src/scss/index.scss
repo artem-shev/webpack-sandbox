@@ -1,0 +1,20 @@
+// @import "test";
+
+body {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.wrapper {
+	min-height: 200px;
+	min-width: 500px;
+	display: flex;
+	margin: auto;
+	background: url('http://lorempixel.com/400/200/cats/') center no-repeat;
+	// background: url('../img/cat.jpg') center no-repeat;
+	background-size: cover;
+	button {
+		margin: auto;
+	}
+}
